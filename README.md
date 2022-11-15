@@ -1,4 +1,4 @@
-# ucgenAlani
+# Üçgen Alanı Hesaplama
 
 a, b ve c kenar uzunlukları olmak üzere;
 
